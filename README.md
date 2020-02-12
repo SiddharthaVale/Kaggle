@@ -8,3 +8,5 @@ TSLA.csv
 __2020 Dems Primary:__ <br />
 2020DemsPrimary.twb <br />
 2020demsCleaned.csv <br />
+endorsements-2020.csv
+
